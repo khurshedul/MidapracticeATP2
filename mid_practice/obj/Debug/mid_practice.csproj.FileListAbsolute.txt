@@ -1,0 +1,6 @@
+C:\Users\khurshedul\documents\visual studio 2013\Projects\mid_practice\mid_practice\bin\mid_practice.dll.config
+C:\Users\khurshedul\documents\visual studio 2013\Projects\mid_practice\mid_practice\bin\mid_practice.dll
+C:\Users\khurshedul\documents\visual studio 2013\Projects\mid_practice\mid_practice\bin\mid_practice.pdb
+C:\Users\khurshedul\documents\visual studio 2013\Projects\mid_practice\mid_practice\obj\Debug\mid_practice.csprojResolveAssemblyReference.cache
+C:\Users\khurshedul\documents\visual studio 2013\Projects\mid_practice\mid_practice\obj\Debug\mid_practice.dll
+C:\Users\khurshedul\documents\visual studio 2013\Projects\mid_practice\mid_practice\obj\Debug\mid_practice.pdb
